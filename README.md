@@ -1,4 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c17f3b3-10de-47eb-8c86-aabe4903b86b/deploy-status)](https://app.netlify.com/sites/tittoh-bank-landing/deploys)
+
 # Easy Bank Landing page.
+
+[Demo](https://tittoh-bank-landing.netlify.app/)
 > clearing hoarded projects from my computer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
